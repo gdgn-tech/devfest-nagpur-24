@@ -1,0 +1,108 @@
+{
+  "communityName": "GDG Nagpur",
+  "communityLocation": {
+    "country": "India",
+    "city": "Nagpur"
+  },
+  "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-london/",
+    "website": "https://gdg.community.dev/gdg-london/",
+    "instagram": "https://gdg.community.dev/gdg-london/",
+    "linkedin": "https://www.linkedin.com/company/google-developers-london/",
+    "youtube": "https://gdg.community.dev/gdg-london/"
+  },
+  "eventInfo": {
+    "name": "DevFest Nagpur 2024",
+    "date": "Nov 16, 2024",
+    "time": "9 AM - 5 PM IST",
+    "venue": {
+      "address": "Nagpur",
+      "map_link": "https://maps.app.goo.gl/Cm6gXgpugNw74ow6A"
+    },
+    "registeration": {
+      "link": "https://gdg.community.dev/",
+      "end_date": "2024-10-25"
+    },
+    "description": {
+      "short": "Are you ready? This annual event hosted by Google Developers Group is designed just for you! Whether you're looking to upskill, advance, or pioneer, this year is centered on simplicity, fun, and impactful outcomes. We are focusing on the foundations without overwhelming you with the usual hype, featuring a thoughtful lineup of sessions that will inspire and engage you!",
+      "long": "Are you ready? This annual event hosted by Google Developers Group is designed just for you! Whether you're looking to upskill, advance, or pioneer, this year is centered on simplicity, fun, and impactful outcomes. We are focusing on the foundations without overwhelming you with the usual hype, featuring a thoughtful lineup of sessions that will inspire and engage you! "
+    },
+    "description2": {
+      "short": "It’s not just about the technology; it’s about connecting with others, sharing ideas, and being part of something bigger. Who knows? The next idea you are looking for might be right here. "
+    },
+    "description3": {
+      "short": "DevFest is where it all begins! "
+    },
+    "stats": [
+      {
+        "name": "Speakers",
+        "value": "23+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "200+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Sessions",
+        "value": "10+",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "2+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+    ],
+    "whatToExpect": [
+      {
+        "title": "Inspire & Learn",
+        "description": "Get inspired by top speakers and leave with ideas you can use right away."
+      },
+      {
+        "title": "Network & Grow",
+        "description": "Meet new people, exchange insights, and discover opportunities"
+      },
+      {
+        "title": "Bites & Bytes",
+        "description": "Refuel with tasty treats as you connect and exchange ideas over lunch."
+      }
+    ],
+    "pastDevFest": {
+      "summery": "DevFest 2023 was a huge hit! With workshops, inspiring sessions, and powerful networking sessions, attendees were able to debug their mindset and explore new possibilities. From challenges to thoughtful discussions, the event left everyone  with some new ideas and excitement. Ctrl+Alt+Create took on a whole new meaning as all attendees from all varied interests shared a day of innovation, learning, and fun. This year, we are building on that momentum for an even more impactful DevFest 2024!",
+      "images": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png"
+      ],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "23+"
+        },
+        {
+          "name": "Participants",
+          "value": "200+"
+        },
+        {
+          "name": "Sessions",
+          "value": "10+"
+        },
+        {
+          "name": "Workshops",
+          "value": "2+"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://devfest-app-2024.web.app"
+  }
+}
