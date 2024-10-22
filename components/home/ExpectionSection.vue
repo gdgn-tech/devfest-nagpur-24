@@ -25,7 +25,7 @@
             :src="getImage(index + 1)"
             width="140"
             alt="image"
-            class="float-right mr-5"
+            class="float-right mr-4"
           ></v-img>
           <div class="pa-8">
             <h2>{{ item.title }}</h2>
