@@ -27,7 +27,6 @@
             <a :href="mainData.eventInfo.venue.map_link" target="_blank" style="color:black">
               {{ mainData.eventInfo.venue.address }}
             </a>
-            
           </span>
         </p>
 
@@ -45,8 +44,20 @@
           target="_blank"
           style="border: 1.5px solid #1e1e1e; color: black"
           variant="flat"
-          >Register Now</v-btn
         >
+          Register Now
+        </v-btn>
+
+        <!-- New CTA Button -->
+        <v-btn
+          rounded
+          size="large"
+          class="early-bird-btn"
+          href="#"
+          target="_blank"
+        >
+          Get Early Bird Pass
+        </v-btn>
       </v-col>
       <v-col md="6" sm="6" cols="12">
         <v-img
@@ -77,5 +88,22 @@ const { mainData } = useJSONData();
   .responsive-h1 {
     font-size: 300%;
   }
+}
+
+/* New Button Styles */
+.early-bird-btn {
+  display: flex;
+  width: 193px;
+  height: 54px;
+  padding: 19px 31px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 80%;
+  border-radius: 16px;
+  border: 2px solid #000;
+  background: #4285F4;
+  color: white;
+  font-weight: bold;
 }
 </style>
