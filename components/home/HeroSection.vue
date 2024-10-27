@@ -62,8 +62,8 @@
       <v-col md="6" sm="6" cols="12">
         <v-img
           alt="logo"
-          src="assets/img/hero-image.png"
-          lazy-src="assets/img/hero-image.png"
+          src="assets/img/hero-image.svg"
+          lazy-src="assets/img/hero-image.svg"
         ></v-img>
       </v-col>
     </v-row>
@@ -95,13 +95,14 @@ const { mainData } = useJSONData();
   display: flex;
   width: 193px;
   height: 54px;
+  border: 1.5px solid #000;
+border-radius: 10px;
+margin-top: 40px;
   padding: 19px 31px;
   justify-content: center;
   align-items: center;
   gap: 10px;
   font-size: 80%;
-  border-radius: 16px;
-  border: 2px solid #000;
   background: #4285F4;
   color: white;
   font-weight: bold;
