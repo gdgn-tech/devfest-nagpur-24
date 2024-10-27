@@ -55,7 +55,7 @@
       },
       {
         "name": "Workshops",
-        "value": "2+",
+        "value": "4+",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
@@ -96,7 +96,7 @@
         },
         {
           "name": "Workshops",
-          "value": "2+"
+          "value": "4+"
         }
       ]
     }
