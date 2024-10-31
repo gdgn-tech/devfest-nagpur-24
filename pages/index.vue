@@ -22,6 +22,7 @@
         <HomePastDevFest class="mb-md-10" />
         <!-- Past DevFest -->
 
+ 
         <!-- Sponsors -->
         <!-- <HomeSponsorsSection /> -->
         <!-- Sponsors -->
@@ -29,6 +30,10 @@
         <!-- Keep in Touch -->
         <HomeCommunityContact />
         <!-- Keep in Touch -->
+               <!-- Layout File (e.g., `Home.vue`) -->
+        <HomeVenueSection />
+
+
       </v-row>
     </v-container>
   </NuxtLayout>
