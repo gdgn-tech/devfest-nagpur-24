@@ -16,7 +16,7 @@
           cover
           alt="venue-main-image"
           style="border: 1.5px solid black; margin-bottom: 1rem;"
-          :src="`/img/venue/image3.png`"
+          :src="`/img/venue/imgae1.png`"
         ></v-img>
       </v-col>
       
@@ -27,7 +27,7 @@
           rounded="xl"
           cover
           alt="venue-small-image-1"
-          :src="`/img/venue/imgae1.png`"
+          :src="`/img/venue/image3.png`"
           style="border: 1.5px solid black"
         ></v-img>
       </v-col>

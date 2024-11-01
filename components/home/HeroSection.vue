@@ -56,7 +56,7 @@
           href="https://konfhub.com/devfest-nagpur-2024"
           target="_blank"
         >
-          Get Early Bird Pass
+          GET YOUR PASS NOW
         </v-btn>
       </v-col>
       <v-col md="6" sm="6" cols="12">
