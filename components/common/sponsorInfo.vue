@@ -56,15 +56,8 @@ const { sponsorsData } = useJSONData();
 .sponsor-card {
   background-color: #f3f3f3;
   border-radius: 8px;
-  border: 1.5px solid #dcdcdc;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border: 1.5px solid black;
 
-}
-
-.sponsor-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
 .sponsor-logo {
