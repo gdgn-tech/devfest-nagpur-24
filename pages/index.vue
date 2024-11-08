@@ -24,7 +24,7 @@
 
  
         <!-- Sponsors -->
-        <!-- <HomeSponsorsSection /> -->
+       <HomeSponsorsSection />
         <!-- Sponsors -->
 
         <!-- Keep in Touch -->
