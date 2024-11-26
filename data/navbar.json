@@ -10,6 +10,11 @@
     "visible": true
   },
   {
+    "name": "Speakers",
+    "path": "/speakers",
+    "visible": true
+  },
+  {
     "name": "FAQ",
     "path": "/faq",
     "visible": true
