@@ -3,13 +3,30 @@
     <v-container fluid class="mt-5">
       <v-row>
         <v-col md="12">
+          <h1>Organizers</h1>
+          <p>
+            Meet the organizers who drive the vision of our community and
+            ensure everything runs seamlessly.
+          </p>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col
+          md="2"
+          sm="3"
+          cols="6"
+          v-for="(item, index) in organizersData"
+          :key="index"
+        >
+          <common-team-card :data="item" />
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col md="12" class="mt-5">
           <h1>Team</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            The team that supports innovation and transformation in every
+            challenge.
           </p>
         </v-col>
       </v-row>
@@ -18,12 +35,26 @@
           <common-team-card :data="item" />
         </v-col>
       </v-row>
+      <v-row>
+        <v-col md="12" class="mt-5">
+          <h1>GDG Leads</h1>
+          <p>
+            Our GDG leads guide and mentor the community with their expertise
+            and insights.
+          </p>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col md="2" sm="3" cols="6" v-for="(item, index) in gdgleadsData" :key="index">
+          <common-team-card :data="item" />
+        </v-col>
+      </v-row>
     </v-container>
   </NuxtLayout>
 </template>
 
 <script setup>
-const { teamData, mainData } = useJSONData();
+const { mainData, teamData, organizersData, gdgleadsData } = useJSONData();
 definePageMeta({
   layout: false,
 });

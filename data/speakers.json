@@ -3,8 +3,8 @@
     "id": "101",
     "name": "Aashi Dutt Gupta",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "DataCamp",
+      "designation": "AI Technical Writer"
     },
     "community_title": "Google Developers Expert - Machine Learning",
     "image": "aashi.png",
@@ -17,8 +17,8 @@
     "id": "102",
     "name": "Akash Shukla",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "Beckn Protocol",
+      "designation": "Contributor"
     },
     "community_title": "Contributor-Beckn Protocol | Mentor-Google for Startups Accelerator (EU & Africa)",
     "image": "Akash.png",
@@ -33,8 +33,8 @@
     "id": "103",
     "name": "Ayushi Gupta",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "Zalando",
+      "designation": "Engineering Lead"
     },
     "community_title": " Google Developer Expert, Firebase",
     "image": "Ayushi.png",
@@ -48,8 +48,8 @@
     "id": "104",
     "name": "Pawan Kumar",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "PocketFM",
+      "designation": "Lead Software Engineer"
     },
     "community_title": "Tech Lead, Google Developer Expert in Flutter & Firebase.",
     "image": "pawan.png",
@@ -63,8 +63,8 @@
     "id": "105",
     "name": "Vaibhav Pathak",
     "company": {
-      "name": "",
-      "designation": "Design Generalist"
+      "name": "Philips",
+      "designation": "UX Desginer"
     },
     "community_title": "Design systems at Philips",
     "image": "Vaibhav.png",
@@ -78,8 +78,8 @@
     "id": "106",
     "name": "Mohd Kafeel Khan",
     "company": {
-      "name": "",
-      "designation": "DevOps Engineer"
+      "name": "MakeMyTrip",
+      "designation": "Senior DevOps Engineer"
     },
     "community_title": "Co-Organiser, Google Developer Group-New Delhi",
     "image": "Kafeel.png",

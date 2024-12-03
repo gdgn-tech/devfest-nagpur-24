@@ -5,6 +5,8 @@ import sessionsData from "../data/sessions.json";
 import speakersData from "../data/speakers.json";
 import sponsorsData from "../data/sponsors.json";
 import teamData from "../data/team.json";
+import organizersData from "../data/organizers.json";
+import gdgleadsData from "../data/gdg-leads.json";
 import cocData from "../data/coc.json";
 import navbarData from "../data/navbar.json";
 
@@ -18,6 +20,8 @@ export const useJSONData = () => {
     sponsorsData,
     teamData,
     cocData,
-    navbarData
+    navbarData,
+    organizersData,
+    gdgleadsData
   };
 };

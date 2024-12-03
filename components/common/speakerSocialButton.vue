@@ -7,7 +7,7 @@
       icon="mdi-linkedin"
       :href="socialLinks.linkedin"
       target="_blank"
-      size="small"
+      size="large"
       :color="dark ? 'white' : ''"
       variant="text"
     ></v-btn>
@@ -18,7 +18,7 @@
       :color="dark ? 'white' : ''"
       :href="socialLinks.github"
       target="_blank"
-      size="small"
+      size="large"
       variant="text"
     ></v-btn>
     <v-btn
@@ -27,7 +27,7 @@
       :color="dark ? 'white' : ''"
       :href="socialLinks.twitter"
       target="_blank"
-      size="small"
+      size="large"
       v-if="socialLinks.twitter != null && socialLinks.twitter.length"
       variant="text"
     ></v-btn>
@@ -36,7 +36,7 @@
       icon="mdi-instagram"
       :color="dark ? 'white' : ''"
       v-if="socialLinks.instagram != null && socialLinks.instagram.length"
-      size="small"
+      size="large"
       :href="socialLinks.instagram"
       target="_blank"
       variant="text"
@@ -58,7 +58,7 @@
       v-if="socialLinks.youtube != null && socialLinks.youtube.length"
       :href="socialLinks.youtube"
       target="_blank"
-      size="small"
+      size="large"
       variant="text"
     ></v-btn>
   </div>

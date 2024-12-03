@@ -15,6 +15,11 @@
     "visible": true
   },
   {
+    "name": "Team",
+    "path": "/team",
+    "visible": true
+  },
+  {
     "name": "FAQ",
     "path": "/faq",
     "visible": true
