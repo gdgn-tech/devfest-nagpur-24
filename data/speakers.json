@@ -34,7 +34,7 @@
     "name": "Ayushi Gupta",
     "company": {
       "name": "",
-      "designation": "Designation"
+      "designation": ""
     },
     "community_title": " Google Developer Expert, Firebase",
     "image": "Ayushi.png",
@@ -42,6 +42,66 @@
     "social": {
       "linkedin": "https://www.linkedin.com/in/droidyayu/",
       "web": "http://ayushig.com/"
+    }
+  },
+  {
+    "id": "104",
+    "name": "Pawan Kumar",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "community_title": "Tech Lead, Google Developer Expert in Flutter & Firebase.",
+    "image": "pawan.png",
+    "bio": " As a seasoned Tech Lead with expertise in Large Language Models (LLMs) and mobile app development, I am passionate about leveraging cutting-edge technology to solve real-world problems. As a Google Developer Expert in Flutter & Firebase, I bring a wealth of knowledge and hands-on experience to every project, ensuring robust, scalable, and innovative solutions.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imthepk/",
+      "web": "https://pawan.app/"
+    }
+  },
+  {
+    "id": "105",
+    "name": "Vaibhav Pathak",
+    "company": {
+      "name": "",
+      "designation": "Design Generalist"
+    },
+    "community_title": "Design systems at Philips",
+    "image": "Vaibhav.png",
+    "bio": "I'm a highly skilled and imaginative Product Designer with over 7 years of experience crafting beautiful and functional products. With expertise in user research, interaction design, and visual aesthetics, I excel at blending user-centricity, innovation, and visual excellence to deliver impactful designs. ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vaibhavrpathak/",
+      "web": "https://dcinfo.tech/"
+    }
+  },
+  {
+    "id": "106",
+    "name": "Mohd Kafeel Khan",
+    "company": {
+      "name": "",
+      "designation": "DevOps Engineer"
+    },
+    "community_title": "Co-Organiser, Google Developer Group-New Delhi",
+    "image": "Kafeel.png",
+    "bio": "Experienced DevOps Engineer with a demonstrated history of working in the information technology and services industry.Implementation of Continous Integration, Continous Development & Deployment with area of expertise in Mobile Applications.",
+    "social": {
+      "linkedin": " https://www.linkedin.com/in/kafeel001khan/ "
+    }
+  },
+  {
+    "id": "107",
+    "name": "Saurabh Rajpal",
+    "company": {
+      "name": "Google",
+      "designation": "Staff Customer Engineer"
+    },
+    "community_title": "Google",
+    "image": "Saurabh.png",
+    "bio": "Seasoned s/w professional with over a decade of diverse experience across people / project / program management, technical sales / product consulting and full stack software development. Established tech speaker and content writer for web, cloud, tensorflow.js, firebase, modern application development and business case studies!",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
+      "twitter": "https://twitter.com/imsaurabhrajpal",
+      "instagram": "https://www.instagram.com/imsaurabhrajpal/"
     }
   }
 ]
