@@ -1,0 +1,87 @@
+[
+  {
+    "id": "6002",
+    "name": "Saniya Imroze",
+    "company": {
+      "name": "Persistent Systems",
+      "designation": "Senior Software Engineer"
+    },
+    "image": "saniya.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/saniya-imroze/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6001",
+    "name": "Saish Adlak",
+    "company": {
+      "name": "GrowthX",
+      "designation": "Product Design"
+    },
+    "image": "saish.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/saishadlak/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Henay Lakhwani",
+    "company": {
+      "name": "Fundrev.ai",
+      "designation": "Founding Product Designer"
+    },
+    "image": "Henay.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/henaylakhwani/",
+      "twitter": "",
+      "github": "",
+      "web": "https://henay.framer.website/"
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Sohail Pathan",
+    "company": {
+      "name": "ApyHub",
+      "designation": "Developer Success"
+    },
+    "image": "sohail.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/iamspathan/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6002",
+    "name": "Shantanu Vishwakarma",
+    "company": {
+      "name": "Hemera",
+      "designation": "Developer Advocate"
+    },
+    "image": "shantanu.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thecoderpanda/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  }
+]

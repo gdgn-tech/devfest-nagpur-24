@@ -1,0 +1,105 @@
+[
+  {
+    "id": "6002",
+    "name": "Ashwin Lichade",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Ashwin1.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ashwin-lichade?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "https://x.com/Ashwin_Lichade?t=RnAGFOM0tdw95j4kZrS5-g&s=09",
+      "github": "https://github.com/Ashwino1",
+      "web": ""
+    },
+    "type": "Lead"
+  },
+  {
+    "id": "6002",
+    "name": "Vaishnavi Dhole",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Vaishnavi.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vaishnavi-dhole-397427259/",
+      "twitter": "https://x.com/dhole_vais28806?t=lCQIGu4I2eil6BqLPCFOwg&s=09",
+      "github": "https://github.com/VaishnaviDhole1591",
+      "web": ""
+    },
+    "type": "Lead"
+  },
+  {
+    "id": "6002",
+    "name": "Khushi Nasare",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Khushi.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khushi-nasare-30112a1b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Lead"
+  }
+  ,
+  {
+    "id": "6002",
+    "name": "Raghav Vyas",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Raghav.jpeg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/raghav-vyas-b0752b289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "https://x.com/vyas152004",
+      "github": "https://github.com/Raghav-Vyas",
+      "web": ""
+    },
+    "type": "Lead"
+  },
+  {
+    "id": "6002",
+    "name": "Chinmayi Ghatbandhe",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Chinmayi.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/chinmayighatbandhe/",
+      "twitter": "https://x.com/CrGhatbandhe",
+      "github": "https://github.com/Chinmayighatbandhe",
+      "web": ""
+    },
+    "type": "Lead"
+  },
+  {
+    "id": "6002",
+    "name": "Jayesh Shete",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Jayesh.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jayeshnshete15/",
+      "twitter": "https://x.com/jayeshshete1512",
+      "github": "https://github.com/Jayesh1512",
+      "web": ""
+    },
+    "type": "Lead"
+  }
+]
