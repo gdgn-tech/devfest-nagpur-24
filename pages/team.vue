@@ -37,7 +37,7 @@
       </v-row>
       <v-row>
         <v-col md="12" class="mt-5">
-          <h1>GDG Leads</h1>
+          <h1>GDG On Campus Leads</h1>
           <p>
             Our GDG leads guide and mentor the community with their expertise
             and insights.
