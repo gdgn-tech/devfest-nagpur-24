@@ -31,6 +31,36 @@
                 "name": "Women Tech Makers",
                 "link": "https://developers.google.com",
                 "logo": "wtm.png"
+            },
+            {
+                "name": "GDGOC - GCOE",
+                "link": "https://developers.google.com",
+                "logo": "gcoe.png"
+            },
+            {
+                "name": "GDGOC - YCCOE",
+                "link": "https://developers.google.com",
+                "logo": "yccoe.png"
+            },
+            {
+                "name": "Headstart Nagpur",
+                "link": "https://developers.google.com",
+                "logo": "headstart_nagpur.png"
+            },
+            {
+                "name": "Tie Nagpur",
+                "link": "https://developers.google.com",
+                "logo": "tie_nagpur.png"
+            },
+            {
+                "name": "GDGCOE - DMIHER",
+                "link": "https://developers.google.com",
+                "logo": "gmiher.png"
+            },
+            {
+                "name": "GDGCOE - BITW",
+                "link": "https://developers.google.com",
+                "logo": "bitw.png"
             }
         ]
     }
