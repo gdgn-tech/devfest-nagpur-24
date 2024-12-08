@@ -103,5 +103,69 @@
       "twitter": "https://twitter.com/imsaurabhrajpal",
       "instagram": "https://www.instagram.com/imsaurabhrajpal/"
     }
+  },
+  {
+    "id": "108",
+    "name": "Shruti Tiwari",
+    "company": {
+      "name": "Innoviti Technologies",
+      "designation": "Senior Product Marketing Manager"
+    },
+    "community_title": "Women Techmakers",
+    "image": "shruti.jpg",
+    "bio": "As a visionary leader and ambassador for Women Techmakers, Shruti has shaped global brands, launched game-changing strategies, and empowered professionals to unlock their true potential. With experience collaborating with industry giants like Meta, Walmart, Amazon, and TikTok, she brings unparalleled expertise in branding, growth, and thought leadership.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/shruti-tiwari/",
+      "twitter": "",
+      "instagram": ""
+    }
+  },
+  {
+    "id": "109",
+    "name": "Ankit Sharma",
+    "company": {
+      "name": "Cisco",
+      "designation": "Senior Software Engineer"
+    },
+    "community_title": "Google Developer Expert - Angular",
+    "image": "ankit.png",
+    "bio": "Ankit, a Microsoft MVP and Google Developer Expert for Angular, is a Senior Software Engineer at Cisco with deep expertise in Angular, TypeScript, NgRx, and web development. He’s passionate about solving complex problems and sharing his knowledge with the community through talks, articles, and books.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ankitsharma-007/",
+      "twitter": "",
+      "instagram": ""
+    }
+  },
+  {
+    "id": "110",
+    "name": "Sneh Pandya",
+    "company": {
+      "name": "Apress",
+      "designation": "Book Author"
+    },
+    "community_title": "Google for Developers",
+    "image": "sneh.png",
+    "bio": "Seasoned s/w professional with over a decade of diverse experience across people / project / program management, technical sales / product consulting and full stack software development. Established tech speaker and content writer for web, cloud, tensorflow.js, firebase, modern application development and business case studies!",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/snehpandya18/",
+      "twitter": "",
+      "instagram": ""
+    }
+  },
+  {
+    "id": "111",
+    "name": "Dhiraj Chaudhari",
+    "company": {
+      "name": "DC Info Tech Pvt. Ltd",
+      "designation": "Founder / Cloud Architect"
+    },
+    "community_title": "Google Developer Expert",
+    "image": "Dhiraj.png",
+    "bio": "Dhiraj Chaudhari, Founder & Cloud Architect at @DC InfoTech and Google Cloud Product Expert, for a hands-on workshop where you'll build a scalable quiz generator using Gen AI and Cloud Run. Learn to leverage AI and cloud solutions to create impactful, real-world applications.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dhirajchaudhari20/",
+      "twitter": "",
+      "instagram": ""
+    }
   }
 ]
