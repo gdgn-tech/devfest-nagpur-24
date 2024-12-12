@@ -3,60 +3,101 @@
         "id": "1001",
         "slide": "",
         "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "description": "beckn Unveiled: Architecting the internet's Next Frontier",
+        "track": "AI",
+        "link": "",
+        "time": "10:00 AM to 10:30 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
         "speakers": [
-            101
+            102
         ]
     },
     {
         "id": "1002",
         "slide": "",
         "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+        "description": "Web ki latest superpower",
         "track": "Web",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "10:30 AM to 11:00 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
         "speakers": [
-            101
+            107
         ]
     },
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Fun Activity",
+        "description": "Quiz Following Treasure Hunt",
+        "track": "Fun Activity",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:00 AM to 11:15 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Dec 21, 2024",
         "timeDuration": "40",
-        "speakers": [
-            102, 101
-        ]
+        "speakers": []
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Session 3",
+        "description": "Passwords : no one really likes them",
+        "track": "Android",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:15 AM to 11:45 AM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
-        "timeDuration": "40",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
         "speakers": [
-            102
+            103
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Session 4",
+        "description": "How to build a CI/CD pipeline (topic confirmation remaining)",
+        "track": "Cloud",
+        "link": "",
+        "time": "11:45 AM to 12:15 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            106
+        ]
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Panel Discussion",
+        "description": "Tech & Nagpur's Ecosystem",
+        "track": "Panel Discussion",
+        "link": "",
+        "time": "12:15 PM to 1:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": []
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Session 4",
+        "description": "How to build a CI/CD pipeline (topic confirmation remaining)",
+        "track": "Cloud",
+        "link": "",
+        "time": "01:00 PM to 12:15 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            106
         ]
     }
 ]
