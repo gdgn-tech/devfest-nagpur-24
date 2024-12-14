@@ -43,6 +43,21 @@
           style="border: 1.5px solid black"
         ></v-img>
       </v-col>
+      <!--integration of g-map-->
+    <v-row>
+      <v-col md="12" sm="12" cols="12" class="text-center my-10">
+        <iframe
+          width="100%"
+          height="450"
+          style="border: 1.5px solid black; border-radius: 15px;"
+          loading="lazy"
+          allowfullscreen
+          referrerpolicy="no-referrer-when-downgrade"
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCwQ7fAYt47xT5fY7H9i165erXR4Yjt4tc
+            &q=Tuli+International+Nagpur">
+        </iframe>
+      </v-col>
+    </v-row>
     </v-row>
   </v-container>
 </template>
