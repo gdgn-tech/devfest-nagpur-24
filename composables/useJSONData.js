@@ -9,6 +9,8 @@ import organizersData from "../data/organizers.json";
 import gdgleadsData from "../data/gdg-leads.json";
 import cocData from "../data/coc.json";
 import navbarData from "../data/navbar.json";
+import track1schedule from "../data/track1schedule.json"
+import track2schedule from "../data/track2schedule.json"
 
 export const useJSONData = () => {
   return {
@@ -16,6 +18,8 @@ export const useJSONData = () => {
     faqData,
     scheduleData,
     sessionsData,
+    track1schedule,
+    track2schedule,
     speakersData,
     sponsorsData,
     teamData,

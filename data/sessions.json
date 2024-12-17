@@ -2,7 +2,7 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
+        "title": "Beckn Unveiled: Architecting the internet's Next Frontier",
         "description": "beckn Unveiled: Architecting the internet's Next Frontier",
         "track": "AI",
         "link": "",
@@ -17,7 +17,7 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
+        "title": "Web ki latest superpower",
         "description": "Web ki latest superpower",
         "track": "Web",
         "link": "",
@@ -45,7 +45,7 @@
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 3",
+        "title": "Passwords : no one really likes them",
         "description": "Passwords : no one really likes them",
         "track": "Android",
         "link": "",
@@ -60,7 +60,7 @@
     {
         "id": "1005",
         "slide": "",
-        "title": "Session 4",
+        "title": "How to build a CI/CD pipeline",
         "description": "How to build a CI/CD pipeline (topic confirmation remaining)",
         "track": "Cloud",
         "link": "",
@@ -86,18 +86,160 @@
         "speakers": []
     },
     {
-        "id": "1005",
+        "id": "1007",
         "slide": "",
-        "title": "Session 4",
-        "description": "How to build a CI/CD pipeline (topic confirmation remaining)",
-        "track": "Cloud",
+        "title": "Decoding the Giants: Unveiling the Mysteries of Large Languauge Models",
+        "description": "Decoding the Giants: Unveiling the Mysteries of Large Languauge Models",
+        "track": "ML/AI",
         "link": "",
-        "time": "01:00 PM to 12:15 PM (IST)",
+        "time": "2:00 PM  to 2:30 PM (IST)",
         "format": "Day 1",
         "date": "Dec 21, 2024",
         "timeDuration": "30",
         "speakers": [
-            106
+            101
         ]
+    },
+    {
+        "id": "1008",
+        "slide": "",
+        "title": "Workshop: Buid a Quiz Generator with Gen AI and Cloud Run",
+        "description": "Workshop: Buid a Quiz Generator with Gen AI and Cloud Run",
+        "track": "AI",
+        "link": "",
+        "time": "2:00 PM  to 2:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "50",
+        "speakers": [
+            111
+        ]
+    },
+    {
+        "id": "1009",
+        "slide": "",
+        "title": "Fun Activity",
+        "description": "Quiz Following Treasure Hunt",
+        "track": "Fun Activity",
+        "link": "",
+        "time": "03:20 PM to 03:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "10",
+        "speakers": []
+    },
+    {
+        "id": "1010",
+        "slide": "",
+        "title": "Whats new: Flutter & Firebase",
+        "description": "Whats new: Flutter & Firebase",
+        "track": "Flutter",
+        "link": "",
+        "time": "3:30 PM  to 4:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "1011",
+        "slide": "",
+        "title": "Angular Signals: Reactive Programming Simplified",
+        "description": "Angular Signals: Reactive Programming Simplified",
+        "track": "Web / Angular",
+        "link": "",
+        "time": "4:00 PM  to  4:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            109
+        ]
+    },
+    {
+        "id": "1012",
+        "slide": "",
+        "title": "Building Design Systems at scale, product design. How I stumbled my way to become a designer.",
+        "description": "Building Design Systems at scale, product design. How I stumbled my way to become a designer.",
+        "track": "Product and Design",
+        "link": "",
+        "time": "2:00 PM to  2:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "1013",
+        "slide": "",
+        "title": "Leveling Up: Transitioning from Product Manager to Executive Leader",
+        "description": "Leveling Up: Transitioning from Product Manager to Executive Leader",
+        "track": "Product and Leadership",
+        "link": "",
+        "time": "2:30 PM to 3:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": [
+            110
+        ]
+    },
+    {
+        "id": "1014",
+        "slide": "",
+        "title": "Careers : Linkedin  & Resume",
+        "description": "Careers : Linkedin  & Resume",
+        "track": "Careers",
+        "link": "",
+        "time": "3:00 PM PM to 3:20 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "20",
+        "speakers": []
+    },
+    {
+        "id": "1015",
+        "slide": "",
+        "title": "Master your personal brand",
+        "description": "Master your personal brand",
+        "track": "",
+        "link": "",
+        "time": "3:20 PM PM to 3:50 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "20",
+        "speakers": [
+            108
+        ]
+    },
+    {
+        "id": "1016",
+        "slide": "",
+        "title": "Fun Activity",
+        "description": "Quiz Following Treasure Hunt",
+        "track": "Fun Activity",
+        "link": "",
+        "time": "03:50 PM to 04:00 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "10",
+        "speakers": []
+    },
+    {
+        "id": "1017",
+        "slide": "",
+        "title": "From code to Connection : The DevRel journey",
+        "description": "From code to Connection : The DevRel journey",
+        "track": "",
+        "link": "",
+        "time": "04:00 PM to 04:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "10",
+        "speakers": []
     }
 ]

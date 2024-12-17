@@ -15,42 +15,61 @@
         <v-row class="mb-7">
           <v-col>
             <v-toolbar flat class="px-0" style="border-radius: 15px">
-              <v-tabs
-                v-model="model"
-                color="primary"
-                slider-color="primary"
-                centered
-                class="px-3"
-              >
+              <v-tabs v-model="model" color="primary" slider-color="primary" centered class="px-3">
                 <v-tab v-for="(item, index) in scheduleData" :key="index">{{
                   item.date
-                }}</v-tab>
+                  }}</v-tab>
               </v-tabs>
             </v-toolbar>
 
-            <v-tabs-window
-              v-model="model"
-              class="mt-5 py-0"
-              style="background-color: white; border-radius: 15px"
-            >
-              <v-tabs-window-item
-                v-for="(item, index) in scheduleData"
-                :key="index"
-                class="pa-0 ma-0"
-              >
+            <v-tabs-window v-model="model" class="mt-5 py-0" style="background-color: white; border-radius: 15px">
+              <v-tabs-window-item v-for="(item, index) in scheduleData" :key="index" class="pa-0 ma-0">
                 <CommonScheduleDetails :data="item" />
               </v-tabs-window-item>
             </v-tabs-window>
+
           </v-col>
         </v-row>
+
       </ClientOnly>
+      <v-container>
+        <v-row class="" justify="">
+          <!-- Track 1 -->
+          <v-col cols="12" md="6" class=" justify-start ">
+            <div>
+              <h3 class="text-center">Track 1</h3>
+              <div>
+                <v-tabs-window v-model="model" class="mt-5 py-0" style="background-color: white; border-radius: 15px">
+                  <v-tabs-window-item v-for="(item, index) in track1schedule" :key="index" class="pa-0 ma-0">
+                    <CommonScheduleDetails :data="item" />
+                  </v-tabs-window-item>
+                </v-tabs-window>
+              </div>
+            </div>
+          </v-col>
+
+          <!-- Track 2 -->
+          <v-col cols="12" md="6" class=" justify-start">
+            <div>
+              <h3 class="text-center">Track 2</h3>
+              <div>
+                <v-tabs-window v-model="model" class="mt-5 py-0" style="background-color: white; border-radius: 15px">
+                  <v-tabs-window-item v-for="(item, index) in track2schedule" :key="index" class="pa-0 ma-0">
+                    <CommonScheduleDetails :data="item" />
+                  </v-tabs-window-item>
+                </v-tabs-window>
+              </div>
+            </div>
+          </v-col>
+        </v-row>
+      </v-container>
     </v-container>
   </NuxtLayout>
 </template>
 
 <script setup>
 const model = ref("");
-const { mainData, scheduleData } = useJSONData();
+const { mainData, scheduleData, track1schedule, track2schedule } = useJSONData();
 definePageMeta({
   layout: false,
 });
@@ -60,7 +79,7 @@ useSeoMeta({
   title: "Agenda - " + mainData.eventInfo.name + " | " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
-  ogLocale:'en_US',
+  ogLocale: 'en_US',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
@@ -77,5 +96,4 @@ useSeoMeta({
   twitterCard: "summary_large_image",
 });
 </script>
-<style scoped>
-</style>
+<style scoped></style>

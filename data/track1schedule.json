@@ -1,0 +1,33 @@
+[
+    {
+        "day": "1",
+        "date": "Dec 21",
+        "schedule": [
+            {
+                "startTime": "2:00 PM",
+                "endTime": "2:30 PM",
+                "session": 1007
+            },
+            {
+                "startTime": "2:30 PM",
+                "endTime": "3:20 PM",
+                "session": 1008
+            },
+            {
+                "startTime": "3:20 PM",
+                "endTime": "3:30 PM",
+                "session": 1009
+            },
+            {
+                "startTime": "3:30 PM",
+                "endTime": "4:00 PM",
+                "session": 1010
+            },
+            {
+                "startTime": "4:00 PM",
+                "endTime": "4:30 PM",
+                "session": 1011
+            }
+        ]
+    }
+]
