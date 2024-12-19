@@ -218,7 +218,7 @@
   },
   {
     "id": "115",
-    "name": "Snehal Shembekar",
+    "name": "Sonal Shembekar",
     "company": {
       "name": "HCLTech",
       "designation": "Offshore Delivery Lead"
@@ -260,6 +260,22 @@
     "bio": "Introducing Shekhar Patankar, the Global Delivery Head for Cloud, Infrastructure, and Security Services at Persistent Systems. With over 20 years of experience, Shekhar has led transformative initiatives across cloud, infrastructure, and security services, driving innovation and excellence within the tech industry. He holds a Master’s degree in Computer Science from the University of Maryland and a Bachelor's degree in Computer Science and Engineering from the Indian Institute of Technology, Bombay. Shekhar has held pivotal roles at March Communications, Lanco Net Ltd., and COMSAT, showcasing his leadership in technology and business solutions.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/shekhar-patankar/",
+      "twitter": "",
+      "instagram": ""
+    }
+  },
+  {
+    "id": "118",
+    "name": "Sohail pathan",
+    "company": {
+      "name": "ApyHub",
+      "designation": "Developer Success"
+    },
+    "community_title": "",
+    "image": "sohail.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/iamspathan/",
       "twitter": "",
       "instagram": ""
     }

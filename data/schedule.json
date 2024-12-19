@@ -4,9 +4,14 @@
         "date": "Dec 21",
         "schedule": [
             {
-                "startTime": "09:00 AM",
+                "startTime": "09:30 AM",
                 "endTime": "10:00 AM",
                 "session": 1000
+            },
+            {
+                "startTime": "10:00 AM",
+                "endTime": "10:30 AM",
+                "session": 1001
             },
             {
                 "startTime": "10:30 AM",

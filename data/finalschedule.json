@@ -1,0 +1,18 @@
+[
+    {
+        "day": "1",
+        "date": "Dec 21",
+        "schedule": [
+            {
+                "startTime": "4:30 PM",
+                "endTime": "4:40 PM",
+                "session": 1019
+            },
+            {
+                "startTime": "4:40 PM",
+                "endTime": "5:20 PM",
+                "session": 1018
+            }
+        ]
+    }
+]

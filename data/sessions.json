@@ -73,8 +73,8 @@
     {
         "id": "1005",
         "slide": "",
-        "title": "How to build a CI/CD pipeline",
-        "description": "How to build a CI/CD pipeline (topic confirmation remaining)",
+        "title": "CI/CD Art of stress free deployments!",
+        "description": "CI/CD Art of stress free deployments!",
         "track": "Cloud",
         "link": "",
         "time": "11:45 AM to 12:15 PM (IST)",
@@ -96,7 +96,12 @@
         "format": "Day 1",
         "date": "Dec 21, 2024",
         "timeDuration": "30",
-        "speakers": []
+        "speakers": [
+            116,
+            115,
+            117,
+            114
+        ]
     },
     {
         "id": "1007",
@@ -204,21 +209,23 @@
     {
         "id": "1014",
         "slide": "",
-        "title": "Careers : Linkedin  & Resume",
-        "description": "Careers : Linkedin  & Resume",
+        "title": "Master your personal brand ",
+        "description": "Master your personal brand ",
         "track": "Careers",
         "link": "",
         "time": "3:00 PM PM to 3:20 PM (IST)",
         "format": "Day 1",
         "date": "Dec 21, 2024",
         "timeDuration": "20",
-        "speakers": []
+        "speakers": [
+            108
+        ]
     },
     {
         "id": "1015",
         "slide": "",
-        "title": "Master your personal brand",
-        "description": "Master your personal brand",
+        "title": "Digital First Impressions - LinkedIn & Beyond",
+        "description": "Digital First Impressions - LinkedIn & Beyond",
         "track": "",
         "link": "",
         "time": "3:20 PM PM to 3:50 PM (IST)",
@@ -226,7 +233,7 @@
         "date": "Dec 21, 2024",
         "timeDuration": "20",
         "speakers": [
-            108
+            112
         ]
     },
     {
@@ -250,6 +257,36 @@
         "track": "",
         "link": "",
         "time": "04:00 PM to 04:30 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "10",
+        "speakers": [
+            113
+        ]
+    },
+    {
+        "id": "1018",
+        "slide": "",
+        "title": "Closing Remarks & Keynote",
+        "description": "Closing Remarks & Keynote",
+        "track": "",
+        "link": "",
+        "time": "04:40 PM to 05:20 PM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "10",
+        "speakers": [
+            118
+        ]
+    },
+    {
+        "id": "1019",
+        "slide": "",
+        "title": "Giveaways",
+        "description": "Giveaways",
+        "track": "",
+        "link": "",
+        "time": "04:30 PM to 04:40 PM (IST)",
         "format": "Day 1",
         "date": "Dec 21, 2024",
         "timeDuration": "10",

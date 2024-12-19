@@ -11,12 +11,14 @@ import cocData from "../data/coc.json";
 import navbarData from "../data/navbar.json";
 import track1schedule from "../data/track1schedule.json"
 import track2schedule from "../data/track2schedule.json"
+import finalschedule from '../data/finalschedule.json'
 
 export const useJSONData = () => {
   return {
     mainData,
     faqData,
     scheduleData,
+    finalschedule,
     sessionsData,
     track1schedule,
     track2schedule,
