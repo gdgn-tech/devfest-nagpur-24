@@ -44,8 +44,9 @@
         ></v-img>
       </v-col>
       <!--integration of g-map-->
+    </v-row>
     <v-row>
-      <v-col md="12" sm="12" cols="12" class="text-center my-10">
+      <v-col md="12" sm="12" cols="12" class="text-center">
         <iframe
           width="100%"
           height="450"
@@ -57,7 +58,6 @@
             &q=Tuli+International+Nagpur">
         </iframe>
       </v-col>
-    </v-row>
     </v-row>
   </v-container>
 </template>
