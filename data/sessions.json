@@ -1,5 +1,18 @@
 [
     {
+        "id": "1000",
+        "slide": "",
+        "title": "Welcome & Keynote",
+        "description": "Opening and Welcome",
+        "track": "",
+        "link": "",
+        "time": "09:30 AM to 10:00 AM (IST)",
+        "format": "Day 1",
+        "date": "Dec 21, 2024",
+        "timeDuration": "30",
+        "speakers": []
+    },
+    {
         "id": "1001",
         "slide": "",
         "title": "Beckn Unveiled: Architecting the internet's Next Frontier",
